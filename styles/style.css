@@ -214,6 +214,7 @@ header{
     justify-content: center;
     flex-direction: column;
     margin-top: 120px;
+    height: 850px;
 }
 
 .sec-five-title{
@@ -229,4 +230,184 @@ header{
     width: 35%;
     font-size: 17px;
     font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+}
+
+.sec-five img{
+    margin-top: 20px;
+}
+
+.sec-six{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  height: 800px;
+}
+
+.sec-six-div-two{
+    width: 25%;
+}
+
+.sec-six-title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    width: 60%;
+}
+
+.sec-six-text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    width: 81%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.sec-seven{
+    background-color: #E6E6E6;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 60px;
+    height: 850px;
+}
+
+.sec-seven-div-one{
+    width: 30%;
+}
+
+.sec-seven-title{
+    font-size: 60px;
+}
+
+.sec-seven-text{
+    font-size: 18px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 80%;
+}
+
+.sec-eight{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 900px;
+    gap: 60px;
+}
+
+.sec-eight-div-one{
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+    width: 650px;
+    margin: 0;
+}
+
+.sec-eight-div-one form{
+    width: 500px;
+    background-color: black;
+}
+
+.sec-eight-form{
+    display: flex;
+    flex-direction: column;
+}
+
+.name-surname {
+    display: flex;
+    justify-content: space-between;
+}
+
+.name-surname div {
+    width: 48%;
+}
+
+.name-surname {
+    display: flex;
+    justify-content: space-between;
+}
+
+.name-surname div {
+    width: 48%;
+}
+
+.sec-eight-div-two{
+    width: 30%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sec-eight-title{
+    color: #F5CB00;
+    font-size: 50px;
+}
+
+.sec-eight-text2{
+    font-size: 18px;
+    width: 60%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.sec-nine{
+    background-color: #F5CB00;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 800px;
+}
+
+.sec-nine-title{
+    font-size: 35px;
+}
+
+.sec-nine-text{
+    font-size: 23px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+footer{
+    background-color: black;
+    color: #F5CB00;
+    height: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer-logo{
+    margin-left: 50px;
+    margin-top: 80px;
+
+}
+
+.footer-big{
+    display: flex;
+    gap: 30px;
+    margin-top: 100px;
+    font-size: 20px;
+    margin-left: 50px;
+    margin-bottom: 100px;
+}
+
+hr{
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+
+.redes{
+    max-height: 5vh;
+    border-radius: 100%;
+    margin-left: 2vh;
+}
+
+#imgfoot{
+    display: flex;
+   padding-right: 5vh;
 }
